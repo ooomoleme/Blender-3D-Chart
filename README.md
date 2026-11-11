@@ -1,4 +1,4 @@
-![Preview](preview_output.gif)
+![Preview](preview_output.mp4)
    
 # Animated 3D bar chart (Blender)
 
