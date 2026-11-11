@@ -1,3 +1,4 @@
+   ![Preview](preview.gif)
 # Animated 3D bar chart (Blender)
 
 `bar_chart.py` reads `data.csv`, builds a 3D bar chart in Blender with bars that grow one after another, labels, and a slow camera orbit, then renders PNG frames to a `frames/` folder. FFmpeg turns the frames into an MP4.
