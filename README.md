@@ -1,4 +1,6 @@
-![Preview](preview_output.mp4)
+https://github.com/user-attachments/assets/44070607-e5d3-421c-9439-9016318e9a0e
+
+
    
 # Animated 3D bar chart (Blender)
 
